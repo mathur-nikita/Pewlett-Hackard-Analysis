@@ -10,9 +10,12 @@ We then need to prepare a report that summarizes the findings of our analysis.
 
 ## Results
 
+![retiring_title_counts.PNG](https://github.com/mathur-nikita/Pewlett-Hackard-Analysis/blob/main/images/retiring_title_counts.PNG)
 - There are a total of 72,458 employees at Pewlett Hackard approaching retirement.
 - The majority of the roles that will need to be filled are Senior Engineers, followed by Senior Staff.
 - Two managers are approaching retirement.
+
+![mentorship_eligibility_count.PNG](https://github.com/mathur-nikita/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligibility_count.PNG)
 - A total of 1,549 employees are currently eligible to participate in a mentorship program.
 
 ## Summary
