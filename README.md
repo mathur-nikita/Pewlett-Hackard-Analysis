@@ -10,7 +10,10 @@ We then need to prepare a report that summarizes the findings of our analysis.
 
 ## Results
 
-Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+- There are a total of 72,458 employees at Pewlett Hackard approaching retirement.
+- The majority of the roles that will need to be filled are Senior Engineers, followed by Senior Staff.
+- Two managers are approaching retirement.
+- A total of 1,549 employees are currently eligible to participate in a mentorship program.
 
 ## Summary
 
